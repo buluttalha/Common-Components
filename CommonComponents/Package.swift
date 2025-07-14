@@ -13,7 +13,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/gappzeTalhaBulut/BaseFoundation.git", from: "1.0.0")
+        .package(url: "https://github.com/gappzeTalhaBulut/BaseFoundation.git", .upToNextMajor(from: "1.0.0"))
     ],
     targets: [
         .target(
