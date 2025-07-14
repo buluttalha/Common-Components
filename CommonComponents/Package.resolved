@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BaseFoundation",
+        "repositoryURL": "https://github.com/gappzeTalhaBulut/BaseFoundation.git",
+        "state": {
+          "branch": null,
+          "revision": "461cc8e85e036b8ff2b88596ed2077f1bc7c765d",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

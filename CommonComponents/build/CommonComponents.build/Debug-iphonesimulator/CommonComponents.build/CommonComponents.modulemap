@@ -1,0 +1,4 @@
+module CommonComponents {
+header "CommonComponents-Swift.h"
+export *
+}

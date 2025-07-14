@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0337236b8e5b388703727fd3d48a586761b8e1c27b3c217cfeac98ed7ca9cff7"
+build_start_time: [1672582077, 220128059]
+build_end_time: [1672582078, 57043075]
+inputs:
+  ? "/Users/erenyurekli/Desktop/BluetoothScanner/BluetoothScanner/Packages/CommonComponents/Sources/CommonComponents/Alert/AlertBuilder.swift"
+  : !private [1672262246, 556569576]
+  ? "/Users/erenyurekli/Desktop/BluetoothScanner/BluetoothScanner/Packages/CommonComponents/Sources/CommonComponents/SCTTable/CellConfigurable.swift"
+  : !private [1672262246, 556674003]
+  ? "/Users/erenyurekli/Desktop/BluetoothScanner/BluetoothScanner/Packages/CommonComponents/Sources/CommonComponents/SCTTable/SCTTableListController.swift"
+  : !private [1672317964, 51360607]
